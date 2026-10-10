@@ -1,84 +1,49 @@
-````html
-<div align="center">
+# Hey, I'm Vxn1r.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=180&section=header&text=Vxn1r&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=35"/>
+**CSE student · Cybersecurity learner · Builder**
 
-```text
-[ SYSTEM ONLINE ]
-[ ACCESS GRANTED ]
-[ WELCOME ]
-````
+I'm a first-year Computer Science student at Gurukula Kangri, Haridwar, interested in understanding how software, networks, and security systems work. I learn by experimenting, documenting what I discover, and building small projects.
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Exploring+Ethical+Hacking;Learning+Python+%26+Linux;Building+Security+Projects;Think+%7C+Code+%7C+Secure](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=2500\&pause=900\&color=00FF41\&center=true\&vCenter=true\&width=650\&lines=Cybersecurity+Enthusiast;Exploring+Ethical+Hacking;Learning+Python+%26+Linux;Building+Security+Projects;Think+%7C+Code+%7C+Secure)" alt="Typing SVG"/>
-
-**`root@Vxn1r:~# whoami`**
-
-`Cybersecurity Learner | Developer | Tech Explorer`
-
-\
-
-
-\</div>
+I care more about understanding the underlying system than collecting tools.
 
 ---
 
-## `> whoami`
+### Current focus
 
-```bash
-$ whoami
-Vxn1r
+- Learning Python, Linux, networking, and core security concepts
+- Practising beginner-friendly CTF challenges and documenting lessons
+- Building small security utilities and improving my open-source workflow
+- Developing **TraceLens**, an OSINT learning project focused on evidence-led investigation and responsible use
 
-$ cat mission.txt
-Learn cybersecurity.
-Understand how systems work.
-Help make the digital world safer.
-```
+### Projects
 
-- 🔐 Interested in cybersecurity and ethical hacking
-- 💻 Exploring programming and security tools
-- 🐧 Learning about Linux and networking
-- 🚀 Building projects and improving my skills
-- 🎯 Mission: Learn something new every day
+| Project | What it explores |
+| --- | --- |
+| [PacketScope](https://github.com/Vxn1r/PacketScope) | A project exploring network-related concepts |
+| [File Integrity Checker](https://github.com/Vxn1r/File-Integrity-Checker) | Checking whether files have changed using hashes |
+| [Password Strength Checker](https://github.com/Vxn1r/Password-strength-checker) | Basic password-strength feedback |
+| [Malware Analysis Sandbox](https://github.com/Vxn1r/Malware-Analysis-Sandbox) | An early learning project around safe malware-analysis concepts |
+| [Binary Cipher](https://github.com/Vxn1r/binary-cipher) · [One-Time Pad](https://github.com/Vxn1r/one-time-pad) | Small cryptography and encoding experiments |
 
-## `> tech_stack --list`
+These projects are works in progress. I'm improving their documentation, testing, and implementation as I learn.
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode\&theme=dark)" alt="Technology icons"/>
-\</p>
+### Tools I'm learning
 
-\<!-- Remove technologies you don't use yet. -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,github,vscode&theme=dark" alt="Python, C, Linux, Bash, Git, GitHub and VS Code" />
+</p>
 
-## `> ls ./projects`
+### How I approach security
 
-Check out my repositories and experiments:
+- **Understand first:** learn the protocol or mechanism before using a tool.
+- **Verify evidence:** distinguish observations from assumptions.
+- **Stay responsible:** practise only in systems I own or have explicit permission to test.
+- **Share the process:** document mistakes, fixes, and useful findings.
 
-- 🔑 [Password Strength Checker](https://github.com/Vxn1r/Password-strength-checker)
-- 📡 [PacketScope](https://github.com/Vxn1r/PacketScope)
-- 🛡️ [Malware Analysis Sandbox](https://github.com/Vxn1r/Malware-Analysis-Sandbox)
-- 🔢 [Binary Cipher](https://github.com/Vxn1r/binary-cipher)
-- 🔐 [One-Time Pad](https://github.com/Vxn1r/one-time-pad)
+### Find me
 
-## `> github --stats`
+- GitHub: [@Vxn1r](https://github.com/Vxn1r)
 
-\<div align="center">
+---
 
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=Vxn1r&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF](https://github-readme-stats.vercel.app/api?username=Vxn1r\&show_icons=true\&hide_border=true\&bg_color=000000\&title_color=00FF41\&icon_color=00FF41\&text_color=FFFFFF)" alt="GitHub statistics"/>
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Vxn1r&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=Vxn1r\&layout=compact\&hide_border=true\&bg_color=000000\&title_color=00FF41\&text_color=FFFFFF)" alt="Top languages"/>
-
-\<img src="[https://streak-stats.demolab.com?user=Vxn1r&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA](https://streak-stats.demolab.com?user=Vxn1r\&hide_border=true\&background=000000\&ring=00FF41\&fire=00FF41\&currStreakLabel=00FF41\&sideLabels=00FF41\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&dates=AAAAAA)" alt="GitHub contribution streak"/>
-
-\</div>
-
-## `> connect --secure`
-
-\<div align="center">
-
-**Always learning. Always building. Always improving.**
-
-`[ END OF TRANSMISSION ]`
-
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00FF41,100:000000\&height=100\&section=footer)"/>
-
-\</div>
-\`\`\`
+*Curious by default. Building steadily. One system at a time.*
