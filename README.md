@@ -20,7 +20,7 @@
 
 ## whoami
 
-I'm a first-year Computer Science student at **Gurukula Kangri, Haridwar**, learning how software, networks, and security systems work under the hood.
+I'm a first-year Computer Science student, learning how software, networks, and security systems work under the hood.
 
 I prefer understanding the mechanism over blindly running a tool. Most of my learning happens through small experiments, CTF practice, debugging, and documenting what I discover.
 
