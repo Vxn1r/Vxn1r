@@ -11,8 +11,8 @@
 
 *𝓒𝓾𝓻𝓲𝓸𝓼𝓲𝓽𝔂 𝓲𝓼 𝓽𝓱𝓮 𝓼𝓽𝓪𝓻𝓽𝓲𝓷𝓰 𝓹𝓸𝓲𝓷𝓽.*
 
-[![GitHub followers](https://img.shields.io/github/followers/Vxn1r?style=for-the-badge&logo=github&label=FOLLOWERS&color=101827)](https://github.com/Vxn1r?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Vxn1r&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/Vxn1r)
+[![GitHub followers](https://img.shields.io/github/followers/Vxn1r?style=for-the-badge&logo=github&label=FOLLOWERS&color=101827&cacheSeconds=300)](https://github.com/Vxn1r?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=Vxn1r&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&base=0)](https://github.com/Vxn1r)
 
 </div>
 
