@@ -37,6 +37,7 @@ I prefer understanding the mechanism over blindly running a tool. Most of my lea
 
 | Project | What I'm exploring |
 | --- | --- |
+| [FixAtlas](https://github.com/Vxn1r/fixatlas-dev) | Offline-first developer error diagnostics with evidence-led explanations and human-controlled next steps |
 | [TraceLens](https://github.com/Vxn1r) | OSINT learning and evidence-led investigation — in development |
 | [PacketScope](https://github.com/Vxn1r/PacketScope) | Network-related concepts |
 | [File Integrity Checker](https://github.com/Vxn1r/File-Integrity-Checker) | File-change detection using hashes |
